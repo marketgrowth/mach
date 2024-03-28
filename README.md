@@ -1,2 +1,2 @@
 # mach
-Open source collection of Rust-based microservices and APIs. Contributors welcome.
+Open source collection of microservices and APIs built on Rust running on WASMEdge. Contributors welcome.
